@@ -27,7 +27,7 @@ This project was created during my internship at **Bruckmann Steuerungstechnik G
 | `Speicher`    | Saves the employee list to a text file and loads it again            |
 | `Abteilung`   | Contains the list of departments for the dropdown menu               |
 | `TestMain`    | Starts the program with the selection menu (JOptionPane)             |
-| `Ausgabe`     | Displays the data in a Swing table (work in progress)                |
+| `Ausgabe`     | Displays the data in the console                                     |
 
 ## Technologies
 
@@ -40,7 +40,7 @@ This project was created during my internship at **Bruckmann Steuerungstechnik G
 
 1. Clone the repository:
    ```
-   git clone https://github.com/AnjaBoin/Personalverwaltung.git
+   git clone https://github.com/AnjaBoin/Personalverwaltung_public.git
    ```
 2. Open the project in IntelliJ IDEA.
 3. Run `TestMain`.

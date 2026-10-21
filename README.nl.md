@@ -27,7 +27,7 @@ Dit project is ontstaan tijdens mijn stage bij **Bruckmann Steuerungstechnik Gmb
 | `Speicher`    | Slaat de medewerkerslijst op in een tekstbestand en laadt die weer in     |
 | `Abteilung`   | Bevat de lijst met afdelingen voor het dropdownmenu                       |
 | `TestMain`    | Start het programma met het keuzemenu (JOptionPane)                       |
-| `Ausgabe`     | Weergave van de gegevens in een Swing-tabel (in ontwikkeling)             |
+| `Ausgabe`     | Weergave van de gegevens in de console                                    |
 
 ## Gebruikte technologieën
 
@@ -40,7 +40,7 @@ Dit project is ontstaan tijdens mijn stage bij **Bruckmann Steuerungstechnik Gmb
 
 1. Repository klonen:
    ```
-   git clone https://github.com/AnjaBoin/Personalverwaltung.git
+   git clone https://github.com/AnjaBoin/Personalverwaltung_public.git
    ```
 2. Project openen in IntelliJ IDEA.
 3. `TestMain` uitvoeren.
