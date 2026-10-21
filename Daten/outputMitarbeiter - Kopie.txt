@@ -1,0 +1,7 @@
+Id, Nachname, Vorname, Adresse, Hausnummer, plz, Wohnort, Telefon, Geburtsdatum, Status, Abteilung
+1,Musterfrau,Anja,Musterstrasse,1,54321,Heijen,123457,01-01-1970,false,null
+2,Johanson,Bridget,Hollywood,5,12345,Hollywood,123457,01-01-1970,true,stars
+3,Pitt,Brad,New York Avenue,1a,12345,New York,12345,01-01-1970,true,acting
+4,Jolie,Angelina,Los Angeles Boulevard,4,1234,Los Angeles,12345,01-01-1970,true,awsgf
+5,Jane,Patrick,Mentalist Street,1,134,Mental,256,01-01-1970,true,nicht zugewiesen
+6,Specter,Harvey,Palmstreet,14,123,LA,1345,01-01-1980,true,Innendienst
